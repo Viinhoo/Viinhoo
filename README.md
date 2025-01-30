@@ -1,5 +1,5 @@
-QVS GRZZ
+ESTUDANDO:
+- Python
+- Django Master
 
-- 🌱 estudando Git
-- 😄 Pronouns: Ele/Dele
--->
+  
